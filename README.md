@@ -4,5 +4,5 @@
 
 图标对应名字：尺寸95
 ![image](https://github.com/gth2021/quantumultx/blob/main/icon/z2.JPEG)
-国旗图标三种形状，尺寸95
+国旗图标同一国家地区三种形状，尺寸95
 ![image](https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/z1.JPEG)

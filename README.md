@@ -1,5 +1,5 @@
 # quantumultx
-图标：
+图标，覆盖一个健康检测组available，和两个负载均衡策略组round-robin图标。
 地址https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/名字（开头无大写）.png
 
 图标对应名字：尺寸95

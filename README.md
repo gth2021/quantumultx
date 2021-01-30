@@ -4,7 +4,7 @@
 
 图标对应名字：
 ![image](https://github.com/gth2021/quantumultx/blob/main/icon/z2.JPEG)
-
+2#
 ![image](https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/z3.JPEG)
 
 国旗图标同一国家地区三种形状，

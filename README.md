@@ -8,4 +8,4 @@
 ![image](https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/z3.JPEG)
 
 国旗图标同一国家地区三种形状，
-![image](https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/z.JPEG)
+![image](https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/z1.JPEG)

@@ -1,5 +1,4 @@
 # quantumultx
-旧图地址：https://github.com/gitb1/Quantumultx
 地址https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/名字（开头无大写）.png
 
 图标对应名字：

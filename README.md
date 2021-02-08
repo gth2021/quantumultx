@@ -6,7 +6,7 @@
 2#
 ![image](https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/z3.JPEG)
 
-国旗图标同一国家地区三种形状，
+国旗图标共7个国家地区，
 ![image](https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/z.JPEG)
 增
-![image](https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/z4.JPEG)
+![image](https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/z2.JPEG)

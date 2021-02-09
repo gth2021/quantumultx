@@ -10,5 +10,5 @@
 ![image](https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/z.JPEG)
 国家8地区的增加与更改。
 ![image](https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/z2.JPEG)
-结果！
+结局！
 ![image](https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/z4.JPEG)

@@ -1,5 +1,7 @@
 # quantumultx
 地址https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/名字（开头无大写）.png
+✈️proxy
+![image](https://github.com/gth2021/quantumultx/blob/main/icon/W1.JPEG)
 
 图标对应名字：
 ![image](https://github.com/gth2021/quantumultx/blob/main/icon/z1.JPEG)

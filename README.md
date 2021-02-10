@@ -1,5 +1,5 @@
 # quantumultx
-地址https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/名字（开头无大写）.png
+A1二维码可访问本页面，图片使用地址https://raw.githubusercontent.com/gth2021/quantumultx/main/icon/名字（开头无大写）.png
 
 
 ✈️proxy
